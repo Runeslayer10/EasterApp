@@ -1,8 +1,8 @@
 
     /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Blake Hadaway
+ * Sept 06, 2018
+ * To find out the date for easter of any given year.
  */
 
 package easterapp;
